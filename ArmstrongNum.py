@@ -15,4 +15,4 @@ if s == sum1:
 else:
     print("The given number", s, "is not armstrong number")
 
-# This code is contributed by Gangarajula Laxmi
+
